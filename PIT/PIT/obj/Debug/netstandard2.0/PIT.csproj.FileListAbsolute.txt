@@ -1,0 +1,15 @@
+C:\projetos xamarin\PIT\PIT\PIT\obj\Debug\netstandard2.0\PIT.csproj.AssemblyReference.cache
+C:\projetos xamarin\PIT\PIT\PIT\obj\Debug\netstandard2.0\PIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos xamarin\PIT\PIT\PIT\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\projetos xamarin\PIT\PIT\PIT\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\projetos xamarin\PIT\PIT\PIT\obj\Debug\netstandard2.0\PIT.AssemblyInfoInputs.cache
+C:\projetos xamarin\PIT\PIT\PIT\obj\Debug\netstandard2.0\PIT.AssemblyInfo.cs
+C:\projetos xamarin\PIT\PIT\PIT\obj\Debug\netstandard2.0\PIT.csproj.CoreCompileInputs.cache
+C:\projetos xamarin\PIT\PIT\PIT\obj\Debug\netstandard2.0\PIT.dll
+C:\projetos xamarin\PIT\PIT\PIT\obj\Debug\netstandard2.0\ref\PIT.dll
+C:\projetos xamarin\PIT\PIT\PIT\obj\Debug\netstandard2.0\PIT.pdb
+C:\projetos xamarin\PIT\PIT\PIT\bin\Debug\netstandard2.0\PIT.deps.json
+C:\projetos xamarin\PIT\PIT\PIT\bin\Debug\netstandard2.0\PIT.dll
+C:\projetos xamarin\PIT\PIT\PIT\bin\Debug\netstandard2.0\ref\PIT.dll
+C:\projetos xamarin\PIT\PIT\PIT\bin\Debug\netstandard2.0\PIT.pdb
+C:\projetos xamarin\PIT\PIT\PIT\obj\Debug\netstandard2.0\XamlC.stamp

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PIT.MainPage">
+    <StackLayout>
+        <RefreshView x:Name="labelLoading" WidthRequest="1000"  HeightRequest="1000" IsEnabled="False" RefreshColor="#9c9cd3" BackgroundColor="#eb9bc1" VerticalOptions="CenterAndExpand">
+                <!--Loading label should not render by default.-->
+            <StackLayout>
+            <Image x:Name="logo" Source="Dellas.png" IsVisible="False" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+            <WebView x:Name="pagina" HeightRequest="1000" WidthRequest="1000" Source="https://katanawebdesign.com/dellasmakeup" Navigated="webviewNavigated" Navigating="webviewNavigating" />
+            </StackLayout>
+        </RefreshView>
+    </StackLayout>
+
+
+</ContentPage>
